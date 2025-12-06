@@ -1,1 +1,3 @@
 # Song-Lover---Lyric-Generation-NLP-Project
+
+This project aims to address a supervised text generation problem by fine-tuning the GPT-2 model, enabling the system to automatically generate lyrics based on themes, emotions or keywords provided by users. The model is mainly targeted at music creators, writing enthusiasts, and users who encounter creative blocks during the creation process, helping them quickly obtain new lyric inspirations or drafts. This system can be integrated into lyric creation software, creative writing tools, or online music platforms, and can run on various devices such as laptops, tablets, mobile phones, or cloud services, offering good accessibility and application potential.
